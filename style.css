@@ -1,0 +1,33 @@
+body{
+    background-color: darkgrey;
+}
+label{
+    font-size: 22px;
+    font-family: 'Cambria';
+    padding: 5px;
+    color:darkblue;
+}
+input{
+    font-size: 22px;
+    font-family: 'Cambria';
+    margin: 5px;
+    border-color: darkblue;
+}
+button{
+    font-size: 22px;
+    font-family: 'Cambria';
+    padding: 8px;
+    margin: 8px;
+    border-color: darkblue;
+}
+button:hover{
+    background-color: aqua;
+}
+img{
+    border-color: darkblue;
+}
+h1{
+    font-family: 'Cambria';
+    text-align: center;
+    color: darkblue;
+}
